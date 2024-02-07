@@ -1,6 +1,6 @@
 # Currency Converter App
 
-![Currency Converter App](https://currency-exchange-react-steel.vercel.app/)
+[Currency Converter App](https://currency-exchange-react-steel.vercel.app/)
 
 ## Description
 
